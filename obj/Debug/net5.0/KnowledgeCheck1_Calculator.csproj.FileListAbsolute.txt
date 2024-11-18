@@ -1,0 +1,16 @@
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.exe
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.deps.json
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.runtimeconfig.json
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.runtimeconfig.dev.json
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.dll
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\bin\Debug\net5.0\KnowledgeCheck1_Calculator.pdb
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.AssemblyInfoInputs.cache
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.AssemblyInfo.cs
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.csproj.CoreCompileInputs.cache
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.sourcelink.json
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.dll
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\refint\KnowledgeCheck1_Calculator.dll
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.pdb
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\KnowledgeCheck1_Calculator.genruntimeconfig.cache
+D:\Code\Software1-Knowledge-Check-1\KnowledgeCheck1_Calculator\obj\Debug\net5.0\ref\KnowledgeCheck1_Calculator.dll
